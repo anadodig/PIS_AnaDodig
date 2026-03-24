@@ -12,6 +12,8 @@ namespace PIS_AnaDodig
         {
             int a = 5;
             Console.WriteLine("Novo");
+            Console.WriteLine("mijenjam ti program");
         }
     }
 }
+
