@@ -9,5 +9,6 @@ namespace PIS_AnaDodig
     internal class NewClass
     {
         Console.WriteLine("");
+        Console.WriteLine("mijenjam ti program");
     }
 }
