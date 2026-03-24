@@ -10,6 +10,7 @@ namespace PIS_AnaDodig
     {
         static void Main(string[] args)
         {
+            int a = 5;
         }
     }
 }
